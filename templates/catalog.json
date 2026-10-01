@@ -1,0 +1,116 @@
+{
+  "format": "cms-template-catalog",
+  "formatVersion": 1,
+  "updatedAt": "2026-10-01T08:33:08.837Z",
+  "templates": [
+    {
+      "type": "card",
+      "key": "aadhaar-eaadhaar-pdf",
+      "name": "Aadhaar (e-Aadhaar PDF)",
+      "version": 1,
+      "changelog": "",
+      "minAppVersion": "1",
+      "file": "card/aadhaar-eaadhaar-pdf-89d92d-v1.json",
+      "size": 4576,
+      "sha256": "565887e604ce888a255b0ec8f93e853c642f9dc317200f49a9878f27085b970a",
+      "updatedAt": "2026-10-01T08:33:08.837Z"
+    },
+    {
+      "type": "card",
+      "key": "Abha Card",
+      "name": "ABHA CARD",
+      "version": 1,
+      "changelog": "",
+      "minAppVersion": "1",
+      "file": "card/abha-card-86aba9-v1.json",
+      "size": 1180,
+      "sha256": "6c680ca5c8f2389b71cecfa36d1934e3cbd59f62a43485cdb23890605b83c499",
+      "updatedAt": "2026-10-01T08:33:08.837Z"
+    },
+    {
+      "type": "card",
+      "key": "Nirman Card",
+      "name": "e-Nirman Card",
+      "version": 1,
+      "changelog": "",
+      "minAppVersion": "1",
+      "file": "card/nirman-card-3a7ef4-v1.json",
+      "size": 71000,
+      "sha256": "346a96e2e663897b8d260779159c5000374753677036b5bcc649c3de809cce6a",
+      "updatedAt": "2026-10-01T08:33:08.837Z"
+    },
+    {
+      "type": "card",
+      "key": "Election Card",
+      "name": "Epic Card",
+      "version": 1,
+      "changelog": "",
+      "minAppVersion": "1",
+      "file": "card/election-card-ecae2a-v1.json",
+      "size": 1546,
+      "sha256": "5c05b5b5188c12ae59e133fc40f6bb1de64bd142055d703a00812b05a94f29d6",
+      "updatedAt": "2026-10-01T08:33:08.837Z"
+    },
+    {
+      "type": "card",
+      "key": "Bal Adhar",
+      "name": "Minor Adhar",
+      "version": 1,
+      "changelog": "",
+      "minAppVersion": "1",
+      "file": "card/bal-adhar-ee1623-v1.json",
+      "size": 369262,
+      "sha256": "9c26d843bc89365b9369708c958c4cd19d01715f55cc9b04ff0564097e2e0d31",
+      "updatedAt": "2026-10-01T08:33:08.837Z"
+    },
+    {
+      "type": "card",
+      "key": "Nsdl Pan",
+      "name": "NSDL Pan",
+      "version": 1,
+      "changelog": "",
+      "minAppVersion": "1",
+      "file": "card/nsdl-pan-111f7b-v1.json",
+      "size": 44303,
+      "sha256": "468193603603dfc0fdba5a1706e20c907aac2aca9eb3bba96bc8c8918bf0b6a7",
+      "updatedAt": "2026-10-01T08:33:08.837Z"
+    },
+    {
+      "type": "card",
+      "key": "PM Jay Card",
+      "name": "PM Jay Card",
+      "version": 1,
+      "changelog": "",
+      "minAppVersion": "1",
+      "file": "card/pm-jay-card-c5b810-v1.json",
+      "size": 1523,
+      "sha256": "672cefa48c918e18f06140bab325aa389d7a50bf67a2e27ee1a2b29d4b108cf9",
+      "updatedAt": "2026-10-01T08:33:08.837Z"
+    },
+    {
+      "type": "card",
+      "key": "UTI Pan",
+      "name": "UTI Pan",
+      "version": 1,
+      "changelog": "",
+      "minAppVersion": "1",
+      "file": "card/uti-pan-79d37a-v1.json",
+      "size": 1270,
+      "sha256": "664b0e7df8f5a8b44bc278990c766c0e9eb7dd43ffd3e092ea5f4b1fc60cefd8",
+      "updatedAt": "2026-10-01T08:33:08.837Z"
+    },
+    {
+      "type": "document",
+      "key": "aadhaar-card",
+      "name": "Aadhaar Card",
+      "version": 1,
+      "changelog": "",
+      "minAppVersion": "1",
+      "documentMaster": "Aadhaar Card",
+      "file": "document/aadhaar-card-bbc91e-v1.json",
+      "size": 691040,
+      "sha256": "b0414c5a4cbed0bdb3bddfd448819a085f2620ae88927260ccc280f6848c5ef0",
+      "updatedAt": "2026-10-01T08:29:00.085Z"
+    }
+  ]
+}
