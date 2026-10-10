@@ -1,7 +1,7 @@
 {
   "format": "cms-template-catalog",
   "formatVersion": 1,
-  "updatedAt": "2026-10-03T10:47:04.176Z",
+  "updatedAt": "2026-10-10T16:14:09.508Z",
   "templates": [
     {
       "type": "card",
@@ -89,6 +89,18 @@
     },
     {
       "type": "card",
+      "key": "template-1791311853846",
+      "name": "Smart Color Adhar",
+      "version": 13,
+      "changelog": "Name Change",
+      "minAppVersion": null,
+      "file": "card/template-1791311853846-42a972-v13.json",
+      "size": 320409,
+      "sha256": "955ba5b53582b3f2385b8037af7d6a351a8ba8a3d1ad127e044aa02e4453228d",
+      "updatedAt": "2026-10-10T16:14:09.508Z"
+    },
+    {
+      "type": "card",
       "key": "UTI Pan",
       "name": "UTI Pan",
       "version": 1,
@@ -103,14 +115,14 @@
       "type": "document",
       "key": "aadhaar-card",
       "name": "Aadhaar Card",
-      "version": 3,
+      "version": 4,
       "changelog": "",
       "minAppVersion": null,
       "documentMaster": "Aadhaar Card",
-      "file": "document/aadhaar-card-bbc91e-v3.json",
-      "size": 3143,
-      "sha256": "17c5ad7afa1dd1784277e23724889b9ac98fbab1c3b509dcc567adefd217a17a",
-      "updatedAt": "2026-10-03T10:47:04.176Z"
+      "file": "document/aadhaar-card-bbc91e-v4.json",
+      "size": 271063,
+      "sha256": "5726c1870d7d27c2e88d8fe15adcbfc385931a38511df4308be8a5a27995a9cf",
+      "updatedAt": "2026-10-06T09:43:27.646Z"
     },
     {
       "type": "document",

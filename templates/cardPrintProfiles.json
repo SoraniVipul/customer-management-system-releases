@@ -1,0 +1,463 @@
+{
+  "version": 6,
+  "profiles": [
+    {
+      "key": "epson-l8050-a4",
+      "name": "Epson L8050 Tray",
+      "paperWidthMm": 210,
+      "paperHeightMm": 297,
+      "cardWidthMm": 85.6,
+      "cardHeightMm": 54,
+      "pageMode": "two_pages",
+      "cutMarks": false,
+      "slots": [
+        {
+          "card": 1,
+          "side": "front",
+          "xMm": 10.2,
+          "yMm": 39.2,
+          "rotate": 90
+        },
+        {
+          "card": 1,
+          "side": "back",
+          "xMm": 10.2,
+          "yMm": 39.2,
+          "rotate": 90
+        },
+        {
+          "card": 2,
+          "side": "front",
+          "xMm": 85.5,
+          "yMm": 39.2,
+          "rotate": 90
+        },
+        {
+          "card": 2,
+          "side": "back",
+          "xMm": 85.5,
+          "yMm": 39.2,
+          "rotate": 90
+        }
+      ]
+    },
+    {
+      "key": "epson-l805-a4",
+      "name": "Epson L805 Tray",
+      "paperWidthMm": 210,
+      "paperHeightMm": 297,
+      "cardWidthMm": 85.6,
+      "cardHeightMm": 54,
+      "pageMode": "two_pages",
+      "cutMarks": false,
+      "slots": [
+        {
+          "card": 1,
+          "side": "front",
+          "xMm": 31.5,
+          "yMm": 10.6,
+          "rotate": 0
+        },
+        {
+          "card": 1,
+          "side": "back",
+          "xMm": 31.5,
+          "yMm": 10.6,
+          "rotate": 0
+        },
+        {
+          "card": 2,
+          "side": "front",
+          "xMm": 31.5,
+          "yMm": 70.8,
+          "rotate": 0
+        },
+        {
+          "card": 2,
+          "side": "back",
+          "xMm": 31.5,
+          "yMm": 70.8,
+          "rotate": 0
+        }
+      ]
+    },
+    {
+      "key": "ntr-sheet-4x6",
+      "name": "NTR Sheet 4x6",
+      "paperWidthMm": 101.6,
+      "paperHeightMm": 152.4,
+      "cardWidthMm": 85.6,
+      "cardHeightMm": 54,
+      "pageMode": "two_pages",
+      "cutMarks": false,
+      "slots": [
+        {
+          "card": 1,
+          "side": "front",
+          "xMm": 8,
+          "yMm": 15,
+          "rotate": 0
+        },
+        {
+          "card": 1,
+          "side": "back",
+          "xMm": 8,
+          "yMm": 15,
+          "rotate": 0
+        },
+        {
+          "card": 2,
+          "side": "front",
+          "xMm": 8,
+          "yMm": 75,
+          "rotate": 0
+        },
+        {
+          "card": 2,
+          "side": "back",
+          "xMm": 8,
+          "yMm": 75,
+          "rotate": 0
+        }
+      ]
+    },
+    {
+      "key": "ntr-sheet-a4",
+      "name": "NTR Sheet A4",
+      "paperWidthMm": 210,
+      "paperHeightMm": 297,
+      "cardWidthMm": 85.6,
+      "cardHeightMm": 54,
+      "pageMode": "two_pages",
+      "cutMarks": false,
+      "slots": [
+        {
+          "card": 1,
+          "side": "front",
+          "xMm": 17.4,
+          "yMm": 5.5,
+          "rotate": 0
+        },
+        {
+          "card": 1,
+          "side": "back",
+          "xMm": 17.4,
+          "yMm": 5.5,
+          "rotate": 0
+        },
+        {
+          "card": 2,
+          "side": "front",
+          "xMm": 107,
+          "yMm": 5.5,
+          "rotate": 0
+        },
+        {
+          "card": 2,
+          "side": "back",
+          "xMm": 107,
+          "yMm": 5.5,
+          "rotate": 0
+        },
+        {
+          "card": 3,
+          "side": "front",
+          "xMm": 17.4,
+          "yMm": 63.5,
+          "rotate": 0
+        },
+        {
+          "card": 3,
+          "side": "back",
+          "xMm": 17.4,
+          "yMm": 63.5,
+          "rotate": 0
+        },
+        {
+          "card": 4,
+          "side": "front",
+          "xMm": 107,
+          "yMm": 63.5,
+          "rotate": 0
+        },
+        {
+          "card": 4,
+          "side": "back",
+          "xMm": 107,
+          "yMm": 63.5,
+          "rotate": 0
+        },
+        {
+          "card": 5,
+          "side": "front",
+          "xMm": 17.4,
+          "yMm": 121.5,
+          "rotate": 0
+        },
+        {
+          "card": 5,
+          "side": "back",
+          "xMm": 17.4,
+          "yMm": 121.5,
+          "rotate": 0
+        },
+        {
+          "card": 6,
+          "side": "front",
+          "xMm": 107,
+          "yMm": 121.5,
+          "rotate": 0
+        },
+        {
+          "card": 6,
+          "side": "back",
+          "xMm": 107,
+          "yMm": 121.5,
+          "rotate": 0
+        },
+        {
+          "card": 7,
+          "side": "front",
+          "xMm": 17.4,
+          "yMm": 179.5,
+          "rotate": 0
+        },
+        {
+          "card": 7,
+          "side": "back",
+          "xMm": 17.4,
+          "yMm": 179.5,
+          "rotate": 0
+        },
+        {
+          "card": 8,
+          "side": "front",
+          "xMm": 107,
+          "yMm": 179.5,
+          "rotate": 0
+        },
+        {
+          "card": 8,
+          "side": "back",
+          "xMm": 107,
+          "yMm": 179.5,
+          "rotate": 0
+        },
+        {
+          "card": 9,
+          "side": "front",
+          "xMm": 17.4,
+          "yMm": 237.5,
+          "rotate": 0
+        },
+        {
+          "card": 9,
+          "side": "back",
+          "xMm": 17.4,
+          "yMm": 237.5,
+          "rotate": 0
+        },
+        {
+          "card": 10,
+          "side": "front",
+          "xMm": 107,
+          "yMm": 237.5,
+          "rotate": 0
+        },
+        {
+          "card": 10,
+          "side": "back",
+          "xMm": 107,
+          "yMm": 237.5,
+          "rotate": 0
+        }
+      ]
+    },
+    {
+      "key": "ntr-single-card",
+      "name": "NTR Single - Card",
+      "paperWidthMm": 55,
+      "paperHeightMm": 91,
+      "cardWidthMm": 85.6,
+      "cardHeightMm": 54,
+      "pageMode": "two_pages",
+      "cutMarks": false,
+      "slots": [
+        {
+          "card": 1,
+          "side": "front",
+          "xMm": 0.5,
+          "yMm": 0,
+          "rotate": 90
+        },
+        {
+          "card": 1,
+          "side": "back",
+          "xMm": 0.5,
+          "yMm": 0,
+          "rotate": 90
+        }
+      ]
+    },
+    {
+      "key": "ntr-single-4x6",
+      "name": "NTR Single - 4 x 6",
+      "paperWidthMm": 101.6,
+      "paperHeightMm": 152.4,
+      "cardWidthMm": 85.6,
+      "cardHeightMm": 54,
+      "pageMode": "two_pages",
+      "cutMarks": false,
+      "slots": [
+        {
+          "card": 1,
+          "side": "front",
+          "xMm": 23.8,
+          "yMm": 2,
+          "rotate": 90
+        },
+        {
+          "card": 1,
+          "side": "back",
+          "xMm": 23.8,
+          "yMm": 2,
+          "rotate": 90
+        }
+      ]
+    },
+    {
+      "key": "card-printer-cr80",
+      "name": "Card Printer (CR80)",
+      "paperWidthMm": 85.6,
+      "paperHeightMm": 54,
+      "cardWidthMm": 85.6,
+      "cardHeightMm": 54,
+      "pageMode": "two_pages",
+      "cutMarks": false,
+      "slots": [
+        {
+          "card": 1,
+          "side": "front",
+          "xMm": 0,
+          "yMm": 0,
+          "rotate": 0
+        },
+        {
+          "card": 1,
+          "side": "back",
+          "xMm": 0,
+          "yMm": 0,
+          "rotate": 0
+        }
+      ]
+    },
+    {
+      "key": "normal-sheet-4x6",
+      "name": "Normal Sheet 4x6",
+      "paperWidthMm": 101.6,
+      "paperHeightMm": 152.4,
+      "cardWidthMm": 85.6,
+      "cardHeightMm": 54,
+      "pageMode": "one_page",
+      "cutMarks": true,
+      "slots": [
+        {
+          "card": 1,
+          "side": "front",
+          "xMm": 8,
+          "yMm": 15,
+          "rotate": 0
+        },
+        {
+          "card": 1,
+          "side": "back",
+          "xMm": 8,
+          "yMm": 75,
+          "rotate": 0
+        }
+      ]
+    },
+    {
+      "key": "normal-sheet-a4",
+      "name": "Normal Sheet A4",
+      "paperWidthMm": 210,
+      "paperHeightMm": 297,
+      "cardWidthMm": 85.6,
+      "cardHeightMm": 54,
+      "pageMode": "one_page",
+      "cutMarks": true,
+      "slots": [
+        {
+          "card": 1,
+          "side": "front",
+          "xMm": 17.4,
+          "yMm": 5.5,
+          "rotate": 0
+        },
+        {
+          "card": 1,
+          "side": "back",
+          "xMm": 107,
+          "yMm": 5.5,
+          "rotate": 0
+        },
+        {
+          "card": 2,
+          "side": "front",
+          "xMm": 17.4,
+          "yMm": 63.5,
+          "rotate": 0
+        },
+        {
+          "card": 2,
+          "side": "back",
+          "xMm": 107,
+          "yMm": 63.5,
+          "rotate": 0
+        },
+        {
+          "card": 3,
+          "side": "front",
+          "xMm": 17.4,
+          "yMm": 121.5,
+          "rotate": 0
+        },
+        {
+          "card": 3,
+          "side": "back",
+          "xMm": 107,
+          "yMm": 121.5,
+          "rotate": 0
+        },
+        {
+          "card": 4,
+          "side": "front",
+          "xMm": 17.4,
+          "yMm": 179.5,
+          "rotate": 0
+        },
+        {
+          "card": 4,
+          "side": "back",
+          "xMm": 107,
+          "yMm": 179.5,
+          "rotate": 0
+        },
+        {
+          "card": 5,
+          "side": "front",
+          "xMm": 17.4,
+          "yMm": 237.5,
+          "rotate": 0
+        },
+        {
+          "card": 5,
+          "side": "back",
+          "xMm": 107,
+          "yMm": 237.5,
+          "rotate": 0
+        }
+      ]
+    }
+  ]
+}
