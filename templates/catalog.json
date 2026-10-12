@@ -1,19 +1,19 @@
 {
   "format": "cms-template-catalog",
   "formatVersion": 1,
-  "updatedAt": "2026-10-12T13:58:01.054Z",
+  "updatedAt": "2026-10-12T18:59:33.513Z",
   "templates": [
     {
       "type": "card",
       "key": "aadhaar-eaadhaar-pdf",
       "name": "Aadhaar (e-Aadhaar PDF)",
-      "version": 1,
+      "version": 4,
       "changelog": "",
-      "minAppVersion": "1",
-      "file": "card/aadhaar-eaadhaar-pdf-89d92d-v1.json",
-      "size": 4576,
-      "sha256": "565887e604ce888a255b0ec8f93e853c642f9dc317200f49a9878f27085b970a",
-      "updatedAt": "2026-10-01T08:33:08.837Z"
+      "minAppVersion": "1.0.16",
+      "file": "card/aadhaar-eaadhaar-pdf-89d92d-v4.json",
+      "size": 9098,
+      "sha256": "f22d6d7ecb24f0921e12a828fd649425d4f6f33ea8284838f37ea8ea32158739",
+      "updatedAt": "2026-10-12T18:59:33.513Z"
     },
     {
       "type": "card",
@@ -21,11 +21,11 @@
       "name": "ABHA CARD",
       "version": 1,
       "changelog": "",
-      "minAppVersion": "1",
+      "minAppVersion": null,
       "file": "card/abha-card-86aba9-v1.json",
-      "size": 1180,
-      "sha256": "6c680ca5c8f2389b71cecfa36d1934e3cbd59f62a43485cdb23890605b83c499",
-      "updatedAt": "2026-10-01T08:33:08.837Z"
+      "size": 1437,
+      "sha256": "725e4f3b7b227357154fb48810c961be7673d89d87a672e6a9e7411998600350",
+      "updatedAt": "2026-10-12T18:59:33.513Z"
     },
     {
       "type": "card",
@@ -33,11 +33,11 @@
       "name": "e-Nirman Card",
       "version": 1,
       "changelog": "",
-      "minAppVersion": "1",
+      "minAppVersion": null,
       "file": "card/nirman-card-3a7ef4-v1.json",
-      "size": 71000,
-      "sha256": "346a96e2e663897b8d260779159c5000374753677036b5bcc649c3de809cce6a",
-      "updatedAt": "2026-10-01T08:33:08.837Z"
+      "size": 71327,
+      "sha256": "d69ef2ccdcae3e7bc6e268cc98dc4eeb18873118b080d33b1358a1bdb89e16dd",
+      "updatedAt": "2026-10-12T18:59:33.513Z"
     },
     {
       "type": "card",
@@ -45,23 +45,23 @@
       "name": "Epic Card",
       "version": 1,
       "changelog": "",
-      "minAppVersion": "1",
+      "minAppVersion": null,
       "file": "card/election-card-ecae2a-v1.json",
-      "size": 1546,
-      "sha256": "5c05b5b5188c12ae59e133fc40f6bb1de64bd142055d703a00812b05a94f29d6",
-      "updatedAt": "2026-10-01T08:33:08.837Z"
+      "size": 1912,
+      "sha256": "f46727137a335207397e112821fdafe53101551b8cdbec5ba4e354ac9ed5cb33",
+      "updatedAt": "2026-10-12T18:59:33.513Z"
     },
     {
       "type": "card",
       "key": "Bal Adhar",
       "name": "Minor Adhar",
-      "version": 1,
+      "version": 2,
       "changelog": "",
-      "minAppVersion": "1",
-      "file": "card/bal-adhar-ee1623-v1.json",
-      "size": 369262,
-      "sha256": "9c26d843bc89365b9369708c958c4cd19d01715f55cc9b04ff0564097e2e0d31",
-      "updatedAt": "2026-10-01T08:33:08.837Z"
+      "minAppVersion": null,
+      "file": "card/bal-adhar-ee1623-v2.json",
+      "size": 282606,
+      "sha256": "54bf47b5d7b059b1debb08bc66b78d8efa1b2dbffba80737ecfa8321d4404ddb",
+      "updatedAt": "2026-10-12T18:59:33.513Z"
     },
     {
       "type": "card",
@@ -69,11 +69,11 @@
       "name": "NSDL Pan",
       "version": 1,
       "changelog": "",
-      "minAppVersion": "1",
+      "minAppVersion": null,
       "file": "card/nsdl-pan-111f7b-v1.json",
-      "size": 44303,
-      "sha256": "468193603603dfc0fdba5a1706e20c907aac2aca9eb3bba96bc8c8918bf0b6a7",
-      "updatedAt": "2026-10-01T08:33:08.837Z"
+      "size": 44708,
+      "sha256": "7bbdf562244a9a499d5b70c638d694d51bc21cbfddb0d337cefde4aa4957e81e",
+      "updatedAt": "2026-10-12T18:59:33.513Z"
     },
     {
       "type": "card",
@@ -81,23 +81,23 @@
       "name": "PM Jay Card",
       "version": 1,
       "changelog": "",
-      "minAppVersion": "1",
+      "minAppVersion": null,
       "file": "card/pm-jay-card-c5b810-v1.json",
-      "size": 1523,
-      "sha256": "672cefa48c918e18f06140bab325aa389d7a50bf67a2e27ee1a2b29d4b108cf9",
-      "updatedAt": "2026-10-01T08:33:08.837Z"
+      "size": 1889,
+      "sha256": "556449382c4ec25b92264b90bfd457ee98a3a8743a7bf62f25b1804515e38478",
+      "updatedAt": "2026-10-12T18:59:33.513Z"
     },
     {
       "type": "card",
       "key": "template-1791311853846",
       "name": "Smart Color Adhar",
-      "version": 13,
-      "changelog": "Name Change",
+      "version": 17,
+      "changelog": "",
       "minAppVersion": null,
-      "file": "card/template-1791311853846-42a972-v13.json",
-      "size": 320409,
-      "sha256": "955ba5b53582b3f2385b8037af7d6a351a8ba8a3d1ad127e044aa02e4453228d",
-      "updatedAt": "2026-10-10T16:14:09.508Z"
+      "file": "card/template-1791311853846-42a972-v17.json",
+      "size": 318649,
+      "sha256": "d17b34a8e2a35339ddd914baa427161e53240e2273fa2d77699f362b2bc2774a",
+      "updatedAt": "2026-10-12T18:59:33.513Z"
     },
     {
       "type": "card",
@@ -105,241 +105,241 @@
       "name": "UTI Pan",
       "version": 1,
       "changelog": "",
-      "minAppVersion": "1",
+      "minAppVersion": null,
       "file": "card/uti-pan-79d37a-v1.json",
-      "size": 1270,
-      "sha256": "664b0e7df8f5a8b44bc278990c766c0e9eb7dd43ffd3e092ea5f4b1fc60cefd8",
-      "updatedAt": "2026-10-01T08:33:08.837Z"
+      "size": 1566,
+      "sha256": "d8c786e07b4d9cad1d7fae0b4c2403ae5b15599e8d28e0e1d54caf68ffe556d5",
+      "updatedAt": "2026-10-12T18:59:33.513Z"
     },
     {
       "type": "document",
       "key": "aadhaar-card",
       "name": "Aadhaar Card",
-      "version": 4,
+      "version": 5,
       "changelog": "",
       "minAppVersion": null,
       "documentMaster": "Aadhaar Card",
-      "file": "document/aadhaar-card-bbc91e-v4.json",
-      "size": 271063,
-      "sha256": "5726c1870d7d27c2e88d8fe15adcbfc385931a38511df4308be8a5a27995a9cf",
-      "updatedAt": "2026-10-06T09:43:27.646Z"
+      "file": "document/aadhaar-card-bbc91e-v5.json",
+      "size": 276572,
+      "sha256": "418b82592539b4305552be41df6769fd547f85b8a41d4e164896cd2ee04c150e",
+      "updatedAt": "2026-10-12T18:58:20.789Z"
     },
     {
       "type": "document",
       "key": "pan-card",
       "name": "PAN Card",
-      "version": 2,
+      "version": 3,
       "changelog": "",
       "minAppVersion": null,
       "documentMaster": "PAN Card",
-      "file": "document/pan-card-a27808-v2.json",
-      "size": 1235,
-      "sha256": "382737cf9fbce3834621845c97028139fb5a6164c541bb2c9396fb9fcab8da72",
-      "updatedAt": "2026-10-03T10:47:04.176Z"
+      "file": "document/pan-card-a27808-v3.json",
+      "size": 1818,
+      "sha256": "d711c76009a487e629ad5133b0216d775850c3fd7553e0d95efca3aacb1df4e4",
+      "updatedAt": "2026-10-12T18:58:20.789Z"
     },
     {
       "type": "master",
       "key": "10th-marksheet",
       "name": "10th Marksheet",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/10th-marksheet-f0b213-v1.json",
+      "file": "master/10th-marksheet-f0b213-v2.json",
       "size": 527,
-      "sha256": "8658a5b982f64ec49178cf0dd996578703c3cba9f64ec8bc60c4992564ecf365",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "dede6ef036de904e6375bdb7446ccbd443ad425d12869be528ec2747a2038e9c",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "12th-marksheet",
       "name": "12th Marksheet",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/12th-marksheet-257023-v1.json",
+      "file": "master/12th-marksheet-257023-v2.json",
       "size": 527,
-      "sha256": "f7ddfffb049af95a72e7464c8db67ea64e1f5879d9501bb865988eac6666e360",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "269f467f9a1c59c5c20d7a73836fdad840d8da2f7789a41b367b12e18d6cd7f5",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "aadhaar-card",
       "name": "Aadhaar Card",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/aadhaar-card-bbc91e-v1.json",
+      "file": "master/aadhaar-card-bbc91e-v2.json",
       "size": 1071,
-      "sha256": "efaec98cb5784eb897da7531a6b34dcae9ce5d279b16961918fc0a4e81939073",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "d938928ae10143493a961295832a009c5c25712fd729cf4721ed6c790f2896fe",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "bank-passbook",
       "name": "Bank Passbook",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/bank-passbook-c64e84-v1.json",
+      "file": "master/bank-passbook-c64e84-v2.json",
       "size": 648,
-      "sha256": "792bea9100fc25282f4685b4cc9ad5122008980902f53f42cd5be4bfd6d9ee02",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "2a14a3e4a9826f7e3dd50218c07858a18e2949535253853cb86bfef6fd5fc125",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "birth-certificate",
       "name": "Birth Certificate",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/birth-certificate-cb0ffe-v1.json",
+      "file": "master/birth-certificate-cb0ffe-v2.json",
       "size": 702,
-      "sha256": "276e2035f8f4f872f9fd87720948729a80e2f84e02cfcd71cf9bfb519e4317eb",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "f5477b0041d24ee9ae97da51ac256769e894615ef8aa0eb968e86bf2cfcc0e4e",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "caste-certificate",
       "name": "Caste Certificate",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/caste-certificate-67a079-v1.json",
+      "file": "master/caste-certificate-67a079-v2.json",
       "size": 627,
-      "sha256": "4121004a300730aa3a72f1ec394264b8776a3065967bafde03aa6bba6fab6883",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "5818014d26b880a4d51a2207728c9089a2b3c10356638ced7751bc572c71666b",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "domicile-certificate",
       "name": "Domicile Certificate",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/domicile-certificate-31ff57-v1.json",
+      "file": "master/domicile-certificate-31ff57-v2.json",
       "size": 689,
-      "sha256": "cb61f62218511ff03d09ae6baed65d8123c105bbc0137a82e429e64bbee36c05",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "559dc3c52c24976391b3e8c0c6c7f1991ecb5df51671151f90845b42a8ab1f11",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "driving-license",
       "name": "Driving License",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/driving-license-692904-v1.json",
+      "file": "master/driving-license-692904-v2.json",
       "size": 828,
-      "sha256": "678518760cef17e4fa7c789de55fc29182306e6dd8a75613b51b386eec30363c",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "84444ba128547b55f1d6e8c61dfef76923f5308d1d1205ba538a39e48cc86c1a",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "electricity-bill",
       "name": "Electricity Bill",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/electricity-bill-33129e-v1.json",
+      "file": "master/electricity-bill-33129e-v2.json",
       "size": 610,
-      "sha256": "177d054efed5059960c07a7ca96379c06bde83da750e1ccfd7cb60f2915f3711",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "7ad41bff6612c54c12e829f45024bb650fa0de0b8329de95ba9978402f8a1105",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "income-certificate",
       "name": "Income Certificate",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/income-certificate-5f1fb5-v1.json",
+      "file": "master/income-certificate-5f1fb5-v2.json",
       "size": 677,
-      "sha256": "fff822afcc1837e20790a18c7fac98cf9187335f25c409fb52283518f555cadf",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "99553e8cfe211aa008cd619eb924789c65614fdcf07b9b5c6d0ab124b0ac34e9",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "marriage-certificate",
       "name": "Marriage Certificate",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/marriage-certificate-f1ecd5-v1.json",
-      "size": 593,
-      "sha256": "7caf32c701d61170eccf4dcde4dce3e5f6a34b005159a05d191868ab0c61a4fd",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "file": "master/marriage-certificate-f1ecd5-v2.json",
+      "size": 650,
+      "sha256": "a9bd54331603815c9619bbcd04dde79cd941ce77b5203fcf8f724bace60dddcb",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "pan-card",
       "name": "PAN Card",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/pan-card-a27808-v1.json",
-      "size": 643,
-      "sha256": "26049ceefbd5d51193895ed43b282d3dd072d69a9276501f4ade769b60eb3b83",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "file": "master/pan-card-a27808-v2.json",
+      "size": 689,
+      "sha256": "051997a8f1e57a16d6e20e657d132ae9e3e4af68c63550a98031c901210d49df",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "passport",
       "name": "Passport",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/passport-a34040-v1.json",
+      "file": "master/passport-a34040-v2.json",
       "size": 769,
-      "sha256": "2eb15e8a073d44a87c811359a9b57efe02a56590eec204fecb99a6872cf448ae",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "0ca99f8e3449c634ca6be27048a1b7edc6a4448861f5cb5b4bf5c70936e7ac52",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "photo",
       "name": "Photo",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/photo-eeb35d-v1.json",
+      "file": "master/photo-eeb35d-v2.json",
       "size": 389,
-      "sha256": "bc1f58f18e16dbac2f37a1b9e94e6a367e27f7f659a748c8af0ac2a46a4bf579",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "74552a05d86de2d1d1df09513470860be88557be6a1b0fb754da66598e650476",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "ration-card",
       "name": "Ration Card",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/ration-card-ed8b92-v1.json",
+      "file": "master/ration-card-ed8b92-v2.json",
       "size": 627,
-      "sha256": "d4c00b5f0d03bf7a77ed1916d6bdfe8dc0a332bb020e52989268d435cc31de20",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "1acf15c78e0b070e4eec789080db09625306eb7cbbb29719479a6bea84616cd3",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "signature",
       "name": "Signature",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/signature-fab5f6-v1.json",
+      "file": "master/signature-fab5f6-v2.json",
       "size": 401,
-      "sha256": "586f674445eb5ad9c1d53f76244be4c18acdb6c61db3c399c98bfa9c93087e02",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "sha256": "ccc91f14d08246a706eb7709863a09d3a2ed438c9110b426e6c6c62dbaa8c043",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     },
     {
       "type": "master",
       "key": "voter-id",
       "name": "Voter ID",
-      "version": 1,
+      "version": 2,
       "changelog": "",
       "minAppVersion": null,
-      "file": "master/voter-id-569cd9-v1.json",
-      "size": 766,
-      "sha256": "0aeddd044de21b222c8a45a900a9d0f509c69ad61192ce63f0ffaeafd07247da",
-      "updatedAt": "2026-10-12T13:58:01.054Z"
+      "file": "master/voter-id-569cd9-v2.json",
+      "size": 812,
+      "sha256": "8e7b15dbd23239ff3c3b1a7df52367754ec202c7569119c331878fc6b4b5c781",
+      "updatedAt": "2026-10-12T18:57:36.976Z"
     }
   ]
 }
