@@ -1,7 +1,7 @@
 {
   "format": "cms-template-catalog",
   "formatVersion": 1,
-  "updatedAt": "2026-10-12T18:59:33.513Z",
+  "updatedAt": "2026-10-14T05:40:39.308Z",
   "templates": [
     {
       "type": "card",
@@ -115,27 +115,27 @@
       "type": "document",
       "key": "aadhaar-card",
       "name": "Aadhaar Card",
-      "version": 5,
+      "version": 6,
       "changelog": "",
       "minAppVersion": null,
       "documentMaster": "Aadhaar Card",
-      "file": "document/aadhaar-card-bbc91e-v5.json",
-      "size": 276572,
-      "sha256": "418b82592539b4305552be41df6769fd547f85b8a41d4e164896cd2ee04c150e",
-      "updatedAt": "2026-10-12T18:58:20.789Z"
+      "file": "document/aadhaar-card-bbc91e-v6.json",
+      "size": 272265,
+      "sha256": "4e3caed84b532d249685bdffeec2c0c9b6c05a9a13c45127ebecffa6217910e6",
+      "updatedAt": "2026-10-14T05:40:39.308Z"
     },
     {
       "type": "document",
       "key": "pan-card",
       "name": "PAN Card",
-      "version": 3,
+      "version": 4,
       "changelog": "",
       "minAppVersion": null,
       "documentMaster": "PAN Card",
-      "file": "document/pan-card-a27808-v3.json",
+      "file": "document/pan-card-a27808-v4.json",
       "size": 1818,
-      "sha256": "d711c76009a487e629ad5133b0216d775850c3fd7553e0d95efca3aacb1df4e4",
-      "updatedAt": "2026-10-12T18:58:20.789Z"
+      "sha256": "c0e77c72f0d1623adaac3fc59b20f47373fbd9ea5d558237bcf37c379d9a139b",
+      "updatedAt": "2026-10-14T05:40:39.308Z"
     },
     {
       "type": "master",
