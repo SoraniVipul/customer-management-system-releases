@@ -1,7 +1,7 @@
 {
   "format": "cms-template-catalog",
   "formatVersion": 1,
-  "updatedAt": "2026-10-19T15:00:27.476Z",
+  "updatedAt": "2026-10-19T15:23:15.390Z",
   "templates": [
     {
       "type": "card",
@@ -26,6 +26,18 @@
       "size": 1437,
       "sha256": "725e4f3b7b227357154fb48810c961be7673d89d87a672e6a9e7411998600350",
       "updatedAt": "2026-10-12T18:59:33.513Z"
+    },
+    {
+      "type": "card",
+      "key": "template-1792393731775",
+      "name": "APAAR ID CARD",
+      "version": 2,
+      "changelog": "",
+      "minAppVersion": null,
+      "file": "card/template-1792393731775-2ef17a-v2.json",
+      "size": 59435,
+      "sha256": "e6d5fb97879e82f1804e839f9a3dc5c72bc146e4994c288955f45dd171d17bc0",
+      "updatedAt": "2026-10-19T15:23:15.390Z"
     },
     {
       "type": "card",
