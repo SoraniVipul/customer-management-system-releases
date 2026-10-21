@@ -1,7 +1,7 @@
 {
   "format": "cms-template-catalog",
   "formatVersion": 1,
-  "updatedAt": "2026-10-21T17:06:30.181Z",
+  "updatedAt": "2026-10-21T19:58:18.356Z",
   "templates": [
     {
       "type": "card",
@@ -156,27 +156,27 @@
       "type": "language",
       "key": "service-info-hi",
       "name": "Service info — हिन्दी (Hindi)",
-      "version": 1,
-      "file": "language/service-info-hi-b18c9a-v1.json",
-      "size": 112814,
-      "sha256": "18966312d9d3eca5322415120528f9af1e9ddd6211bfe36c7772735a9f2da00c",
+      "version": 2,
+      "file": "language/service-info-hi-b18c9a-v2.json",
+      "size": 114587,
+      "sha256": "5db98cb5d23f1aaa0174b3267aaff87aeee7abeac4c80359c0d468d44349a9eb",
       "states": [],
       "changelog": "",
-      "updatedAt": "2026-10-21T17:06:30.181Z"
+      "updatedAt": "2026-10-21T19:58:18.356Z"
     },
     {
       "type": "language",
       "key": "service-info-gu",
       "name": "Service info — ગુજરાતી (Gujarati)",
-      "version": 1,
-      "file": "language/service-info-gu-c99c44-v1.json",
-      "size": 111509,
-      "sha256": "b0d7df50d7bb5c9c9336077380f3811c48ef1722bd31914f7f098d36d0bea059",
+      "version": 2,
+      "file": "language/service-info-gu-c99c44-v2.json",
+      "size": 113255,
+      "sha256": "bd795fe180a32fe9f5ba6cf463ca8ada3f33442c699be1d2bcd8078e5957a5c4",
       "states": [
         "Gujarat"
       ],
       "changelog": "",
-      "updatedAt": "2026-10-21T17:06:30.181Z"
+      "updatedAt": "2026-10-21T19:58:18.356Z"
     },
     {
       "type": "master",
@@ -681,6 +681,36 @@
       "size": 683,
       "sha256": "7cc3543abda523abf0bf086953d161ce32abbaf5209655d372b5e7c883caa01a",
       "updatedAt": "2026-10-21T17:05:31.547Z"
+    },
+    {
+      "type": "service",
+      "key": "biometric-device-rd-service",
+      "name": "Biometric Device → RD Service",
+      "version": 1,
+      "serviceName": "Biometric Device",
+      "subServiceName": "RD Service",
+      "serviceKind": "repair",
+      "changelog": "",
+      "minAppVersion": null,
+      "file": "service/biometric-device-rd-service-76d753-v1.json",
+      "size": 1431,
+      "sha256": "316ca99f127bd56e265143e4ef75add0dfa8b7a8ac38827f733672de79e9630e",
+      "updatedAt": "2026-10-21T19:57:57.927Z"
+    },
+    {
+      "type": "service",
+      "key": "biometric-device-repair",
+      "name": "Biometric Device → Repair",
+      "version": 1,
+      "serviceName": "Biometric Device",
+      "subServiceName": "Repair",
+      "serviceKind": "repair",
+      "changelog": "",
+      "minAppVersion": null,
+      "file": "service/biometric-device-repair-c17507-v1.json",
+      "size": 1541,
+      "sha256": "016e0f387d4e6a72ee5b009057d708a620bf14a918441a63ede68a47511a34ad",
+      "updatedAt": "2026-10-21T19:57:57.927Z"
     },
     {
       "type": "service",
