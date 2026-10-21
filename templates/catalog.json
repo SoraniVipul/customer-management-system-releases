@@ -1,7 +1,7 @@
 {
   "format": "cms-template-catalog",
   "formatVersion": 1,
-  "updatedAt": "2026-10-21T13:44:38.723Z",
+  "updatedAt": "2026-10-21T13:46:24.583Z",
   "templates": [
     {
       "type": "card",
@@ -9,11 +9,11 @@
       "name": "Aadhaar (e-Aadhaar PDF)",
       "version": 4,
       "changelog": "",
-      "minAppVersion": "1.0.16",
+      "minAppVersion": "1.0.21",
       "file": "card/aadhaar-eaadhaar-pdf-89d92d-v4.json",
       "size": 9098,
       "sha256": "f22d6d7ecb24f0921e12a828fd649425d4f6f33ea8284838f37ea8ea32158739",
-      "updatedAt": "2026-10-12T18:59:33.513Z"
+      "updatedAt": "2026-10-21T13:46:24.583Z"
     },
     {
       "type": "card",
@@ -21,11 +21,11 @@
       "name": "ABHA CARD",
       "version": 1,
       "changelog": "",
-      "minAppVersion": null,
+      "minAppVersion": "1.0.21",
       "file": "card/abha-card-86aba9-v1.json",
       "size": 1437,
       "sha256": "725e4f3b7b227357154fb48810c961be7673d89d87a672e6a9e7411998600350",
-      "updatedAt": "2026-10-12T18:59:33.513Z"
+      "updatedAt": "2026-10-21T13:46:24.583Z"
     },
     {
       "type": "card",
@@ -33,11 +33,11 @@
       "name": "APAAR ID CARD",
       "version": 2,
       "changelog": "",
-      "minAppVersion": null,
+      "minAppVersion": "1.0.21",
       "file": "card/template-1792393731775-2ef17a-v2.json",
       "size": 59435,
       "sha256": "e6d5fb97879e82f1804e839f9a3dc5c72bc146e4994c288955f45dd171d17bc0",
-      "updatedAt": "2026-10-19T15:23:15.390Z"
+      "updatedAt": "2026-10-21T13:46:24.583Z"
     },
     {
       "type": "card",
@@ -45,11 +45,14 @@
       "name": "e-Nirman Card",
       "version": 1,
       "changelog": "",
-      "minAppVersion": null,
+      "minAppVersion": "1.0.21",
+      "states": [
+        "Gujarat"
+      ],
       "file": "card/nirman-card-3a7ef4-v1.json",
-      "size": 71327,
-      "sha256": "d69ef2ccdcae3e7bc6e268cc98dc4eeb18873118b080d33b1358a1bdb89e16dd",
-      "updatedAt": "2026-10-12T18:59:33.513Z"
+      "size": 71348,
+      "sha256": "6cf31595b40c31abeda02295a9a93cf2cb9eb7e22a631c531401f69ed594ad6a",
+      "updatedAt": "2026-10-21T13:46:24.583Z"
     },
     {
       "type": "card",
@@ -57,11 +60,11 @@
       "name": "Epic Card",
       "version": 1,
       "changelog": "",
-      "minAppVersion": null,
+      "minAppVersion": "1.0.21",
       "file": "card/election-card-ecae2a-v1.json",
       "size": 1912,
       "sha256": "f46727137a335207397e112821fdafe53101551b8cdbec5ba4e354ac9ed5cb33",
-      "updatedAt": "2026-10-12T18:59:33.513Z"
+      "updatedAt": "2026-10-21T13:46:24.583Z"
     },
     {
       "type": "card",
@@ -69,11 +72,11 @@
       "name": "Minor Adhar",
       "version": 2,
       "changelog": "",
-      "minAppVersion": null,
+      "minAppVersion": "1.0.21",
       "file": "card/bal-adhar-ee1623-v2.json",
       "size": 282606,
       "sha256": "54bf47b5d7b059b1debb08bc66b78d8efa1b2dbffba80737ecfa8321d4404ddb",
-      "updatedAt": "2026-10-12T18:59:33.513Z"
+      "updatedAt": "2026-10-21T13:46:24.583Z"
     },
     {
       "type": "card",
@@ -81,11 +84,11 @@
       "name": "NSDL Pan",
       "version": 1,
       "changelog": "",
-      "minAppVersion": null,
+      "minAppVersion": "1.0.21",
       "file": "card/nsdl-pan-111f7b-v1.json",
       "size": 44708,
       "sha256": "7bbdf562244a9a499d5b70c638d694d51bc21cbfddb0d337cefde4aa4957e81e",
-      "updatedAt": "2026-10-12T18:59:33.513Z"
+      "updatedAt": "2026-10-21T13:46:24.583Z"
     },
     {
       "type": "card",
@@ -93,11 +96,11 @@
       "name": "PM Jay Card",
       "version": 1,
       "changelog": "",
-      "minAppVersion": null,
+      "minAppVersion": "1.0.21",
       "file": "card/pm-jay-card-c5b810-v1.json",
       "size": 1889,
       "sha256": "556449382c4ec25b92264b90bfd457ee98a3a8743a7bf62f25b1804515e38478",
-      "updatedAt": "2026-10-12T18:59:33.513Z"
+      "updatedAt": "2026-10-21T13:46:24.583Z"
     },
     {
       "type": "card",
@@ -105,11 +108,11 @@
       "name": "Smart Color Adhar",
       "version": 17,
       "changelog": "",
-      "minAppVersion": null,
+      "minAppVersion": "1.0.21",
       "file": "card/template-1791311853846-42a972-v17.json",
       "size": 318649,
       "sha256": "d17b34a8e2a35339ddd914baa427161e53240e2273fa2d77699f362b2bc2774a",
-      "updatedAt": "2026-10-12T18:59:33.513Z"
+      "updatedAt": "2026-10-21T13:46:24.583Z"
     },
     {
       "type": "card",
@@ -117,11 +120,11 @@
       "name": "UTI Pan",
       "version": 1,
       "changelog": "",
-      "minAppVersion": null,
+      "minAppVersion": "1.0.21",
       "file": "card/uti-pan-79d37a-v1.json",
       "size": 1566,
       "sha256": "d8c786e07b4d9cad1d7fae0b4c2403ae5b15599e8d28e0e1d54caf68ffe556d5",
-      "updatedAt": "2026-10-12T18:59:33.513Z"
+      "updatedAt": "2026-10-21T13:46:24.583Z"
     },
     {
       "type": "document",
