@@ -1,7 +1,7 @@
 {
   "format": "cms-template-catalog",
   "formatVersion": 1,
-  "updatedAt": "2026-10-27T20:42:01.368Z",
+  "updatedAt": "2026-10-31T08:56:51.796Z",
   "templates": [
     {
       "type": "card",
@@ -229,6 +229,846 @@
       "size": 1818,
       "sha256": "c0e77c72f0d1623adaac3fc59b20f47373fbd9ea5d558237bcf37c379d9a139b",
       "updatedAt": "2026-10-14T05:40:39.308Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-bhai-dooj-frame-en",
+      "name": "Bhai Dooj — Frame (English)",
+      "version": 1,
+      "file": "greeting/festival-bhai-dooj-frame-en-d003e9-v1.json",
+      "size": 1889,
+      "sha256": "1961265dee0c0c51245a79b4efb7425ca063fc7caceeaf542a659340a6491c85",
+      "preview": "greeting/festival-bhai-dooj-frame-en-d003e9-v1-preview.json",
+      "contentHash": "94dd52e74182c86ff99055e3e714c3e48175496ecdea018b6fd23c27f3ccf9a2",
+      "festival": "bhai-dooj",
+      "festivalName": "Bhai Dooj",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-11"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-bhai-dooj-frame-hi",
+      "name": "Bhai Dooj — Frame (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-bhai-dooj-frame-hi-454d3b-v1.json",
+      "size": 2235,
+      "sha256": "26182714acffa07dbd1f8ee2c73ae8954d3b86a2bb4701a1d6c247933a31ce3f",
+      "preview": "greeting/festival-bhai-dooj-frame-hi-454d3b-v1-preview.json",
+      "contentHash": "42b16f58d22a09e4559bac0b8776b1f497d76e494089b151670b53a52b614225",
+      "festival": "bhai-dooj",
+      "festivalName": "Bhai Dooj",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-11"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-bhai-dooj-glow-en",
+      "name": "Bhai Dooj — Glow (English)",
+      "version": 1,
+      "file": "greeting/festival-bhai-dooj-glow-en-ae87f8-v1.json",
+      "size": 6613,
+      "sha256": "86e18c70be0649968bbc97272164e3443eafba6005c837f003fee29b53ffb4be",
+      "preview": "greeting/festival-bhai-dooj-glow-en-ae87f8-v1-preview.json",
+      "contentHash": "78dc61aac848f4483c207a1232a09e482f087364e42e4c76ed639abf038da4e9",
+      "festival": "bhai-dooj",
+      "festivalName": "Bhai Dooj",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-11"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-bhai-dooj-glow-hi",
+      "name": "Bhai Dooj — Glow (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-bhai-dooj-glow-hi-e72dd9-v1.json",
+      "size": 6947,
+      "sha256": "389ab5cbd22dc82a28b2d467008781c9ed9ec50cd500381ed724f34e7496fdde",
+      "preview": "greeting/festival-bhai-dooj-glow-hi-e72dd9-v1-preview.json",
+      "contentHash": "375872afde39e87f1b04ca1b0c7f90d6d13d3aeaefd7d64c129eb7dae2ce6818",
+      "festival": "bhai-dooj",
+      "festivalName": "Bhai Dooj",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-11"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-bhai-dooj-night-en",
+      "name": "Bhai Dooj — Night (English)",
+      "version": 1,
+      "file": "greeting/festival-bhai-dooj-night-en-717b02-v1.json",
+      "size": 9797,
+      "sha256": "6dade8038458e19434603c5b36b37c07be117bc63eb2833d3e12a4cdd3c1e8e0",
+      "preview": "greeting/festival-bhai-dooj-night-en-717b02-v1-preview.json",
+      "contentHash": "7517f274c7978a50d31da0fb0bd49aaa9ab42808f6af51820e4bf6d37d4112f2",
+      "festival": "bhai-dooj",
+      "festivalName": "Bhai Dooj",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-11"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-bhai-dooj-night-hi",
+      "name": "Bhai Dooj — Night (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-bhai-dooj-night-hi-9bf24f-v1.json",
+      "size": 10146,
+      "sha256": "58c136f3007bb411e7444a35f3d9f61a277657143e6e2564f4b3c9c338041d11",
+      "preview": "greeting/festival-bhai-dooj-night-hi-9bf24f-v1-preview.json",
+      "contentHash": "82dc9ff3feff1c04591d2a9aa04e8f90f719e043eee5e28473d9d70ab9e5a5b6",
+      "festival": "bhai-dooj",
+      "festivalName": "Bhai Dooj",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-11"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-christmas-frame-en",
+      "name": "Christmas — Frame (English)",
+      "version": 1,
+      "file": "greeting/festival-christmas-frame-en-f50f39-v1.json",
+      "size": 1849,
+      "sha256": "a5cd6de2b7195269abbe851d74e88f7cb71eabe653228186876433b4a679eb37",
+      "preview": "greeting/festival-christmas-frame-en-f50f39-v1-preview.json",
+      "contentHash": "3f3139316c199d7936cb784b2111289dda7a9bf735f889518df4e064ea31a296",
+      "festival": "christmas",
+      "festivalName": "Christmas",
+      "language": "en",
+      "dates": {
+        "2026": "2026-12-25"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-christmas-frame-hi",
+      "name": "Christmas — Frame (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-christmas-frame-hi-7320a1-v1.json",
+      "size": 2313,
+      "sha256": "cd07c721e179bffba4042295b7a05ae44cf9e1d80f6044398437eec704d18a0c",
+      "preview": "greeting/festival-christmas-frame-hi-7320a1-v1-preview.json",
+      "contentHash": "47a43bb286e85eb2d2bf59a5bd62537fe74b9d46500f003a8641b61ac50687c3",
+      "festival": "christmas",
+      "festivalName": "Christmas",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-12-25"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-christmas-glow-en",
+      "name": "Christmas — Glow (English)",
+      "version": 1,
+      "file": "greeting/festival-christmas-glow-en-149707-v1.json",
+      "size": 6574,
+      "sha256": "6c68f8d3ea590267bc5ddcf6930702206e4406f9daa0a601440c90f1acdba9c7",
+      "preview": "greeting/festival-christmas-glow-en-149707-v1-preview.json",
+      "contentHash": "0f563e99b0a3bfc6febdd1b79df2258b324047446b7035f98bdb60036175c5c9",
+      "festival": "christmas",
+      "festivalName": "Christmas",
+      "language": "en",
+      "dates": {
+        "2026": "2026-12-25"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-christmas-glow-hi",
+      "name": "Christmas — Glow (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-christmas-glow-hi-9ede80-v1.json",
+      "size": 7026,
+      "sha256": "5610a8130df14a2ee9d55848c730830d36c92ee5c3dc17ed4e8923b8adb243d5",
+      "preview": "greeting/festival-christmas-glow-hi-9ede80-v1-preview.json",
+      "contentHash": "42b020430f5af9b2fb749bdc1dd6208a5f27d715871f0fd930552b7758e274ab",
+      "festival": "christmas",
+      "festivalName": "Christmas",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-12-25"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-christmas-night-en",
+      "name": "Christmas — Night (English)",
+      "version": 1,
+      "file": "greeting/festival-christmas-night-en-265e52-v1.json",
+      "size": 9757,
+      "sha256": "9c7315d84e9736f125c33987059312b64e25e7e0cd186ed19a153cd415393681",
+      "preview": "greeting/festival-christmas-night-en-265e52-v1-preview.json",
+      "contentHash": "853bbd7178ab1f71f8dcf367264ed4be37a69639e34e35604bd06164807ae362",
+      "festival": "christmas",
+      "festivalName": "Christmas",
+      "language": "en",
+      "dates": {
+        "2026": "2026-12-25"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-christmas-night-hi",
+      "name": "Christmas — Night (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-christmas-night-hi-2b6e78-v1.json",
+      "size": 10224,
+      "sha256": "de2d91ca72ccf6c93f37045f781362a932a6d8dd70642b72ef8bc288f5c68fb8",
+      "preview": "greeting/festival-christmas-night-hi-2b6e78-v1-preview.json",
+      "contentHash": "6a5b193f1668f98a3a048c8da7c1e50c81b55ec86bd3e55b9def62df34036c19",
+      "festival": "christmas",
+      "festivalName": "Christmas",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-12-25"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-dev-diwali-frame-en",
+      "name": "Dev Diwali — Frame (English)",
+      "version": 1,
+      "file": "greeting/festival-dev-diwali-frame-en-2521e5-v1.json",
+      "size": 1883,
+      "sha256": "f8079a18d438a78b30adf798ebe1e929e45c863322950ad4313651aac2201208",
+      "preview": "greeting/festival-dev-diwali-frame-en-2521e5-v1-preview.json",
+      "contentHash": "999b019f1f515e391e67750814bbe7774dcbd494e1c11a19060119022df84fa0",
+      "festival": "dev-diwali",
+      "festivalName": "Dev Diwali",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-24"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-dev-diwali-frame-hi",
+      "name": "Dev Diwali — Frame (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-dev-diwali-frame-hi-0a5753-v1.json",
+      "size": 2265,
+      "sha256": "ff35a302aa08d7ece472422bc82a76459387eee7708a58b9f4b0de54f04fc557",
+      "preview": "greeting/festival-dev-diwali-frame-hi-0a5753-v1-preview.json",
+      "contentHash": "d82361d9e6d0ee86552fed46082a914092897d7b158de0b3e098eb4a62b8e993",
+      "festival": "dev-diwali",
+      "festivalName": "Dev Diwali",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-24"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-dev-diwali-glow-en",
+      "name": "Dev Diwali — Glow (English)",
+      "version": 1,
+      "file": "greeting/festival-dev-diwali-glow-en-e9a5a4-v1.json",
+      "size": 6608,
+      "sha256": "eb01836305aaad52cf68965075d0749d7211168918b2f3d4ea9d749b4db5f57a",
+      "preview": "greeting/festival-dev-diwali-glow-en-e9a5a4-v1-preview.json",
+      "contentHash": "e2fc14823db0a9eaa3582c670e3b43d937f7f1563bb7a4617591af47a45d9452",
+      "festival": "dev-diwali",
+      "festivalName": "Dev Diwali",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-24"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-dev-diwali-glow-hi",
+      "name": "Dev Diwali — Glow (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-dev-diwali-glow-hi-f08ce9-v1.json",
+      "size": 6978,
+      "sha256": "e741715907abcd3f6f8ed17d5c188dc8340f93e1b3ccc558557c2b561ae835a0",
+      "preview": "greeting/festival-dev-diwali-glow-hi-f08ce9-v1-preview.json",
+      "contentHash": "533d854dcb44149fff0a5d1a6e5d8cb80eaa74739914e84cab4bc0117e4ae87c",
+      "festival": "dev-diwali",
+      "festivalName": "Dev Diwali",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-24"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-dev-diwali-night-en",
+      "name": "Dev Diwali — Night (English)",
+      "version": 1,
+      "file": "greeting/festival-dev-diwali-night-en-7e9d74-v1.json",
+      "size": 9791,
+      "sha256": "1857c3c21206cf41e3a91dd854870422d227e45232eb87d43b0f79e3d1a95912",
+      "preview": "greeting/festival-dev-diwali-night-en-7e9d74-v1-preview.json",
+      "contentHash": "17ea84aae7bfe5040ff18a20755379a94008db400dca6a78a410f45ae2a32796",
+      "festival": "dev-diwali",
+      "festivalName": "Dev Diwali",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-24"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-dev-diwali-night-hi",
+      "name": "Dev Diwali — Night (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-dev-diwali-night-hi-944e4a-v1.json",
+      "size": 10176,
+      "sha256": "19a8e1fcb8807c0f43fdd5faa93c1e7835a2185a17087cd5250215da461886e8",
+      "preview": "greeting/festival-dev-diwali-night-hi-944e4a-v1-preview.json",
+      "contentHash": "ae05ad258ab09933ad22f2b5c76a6e1d27b2af1063266551a18f72f264b95716",
+      "festival": "dev-diwali",
+      "festivalName": "Dev Diwali",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-24"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-dhanteras-frame-en",
+      "name": "Dhanteras — Frame (English)",
+      "version": 1,
+      "file": "greeting/festival-dhanteras-frame-en-f9e719-v1.json",
+      "size": 1901,
+      "sha256": "c7a65756c3594ea7c6a1e90f34b53d9527f2920d1e73b467f3e598b9faf56168",
+      "preview": "greeting/festival-dhanteras-frame-en-f9e719-v1-preview.json",
+      "contentHash": "9ed05c865fc6de9cf161a87bb99edb5f5dbb5d22d4e4283b98637891335bbd25",
+      "festival": "dhanteras",
+      "festivalName": "Dhanteras",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-06"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-dhanteras-frame-hi",
+      "name": "Dhanteras — Frame (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-dhanteras-frame-hi-90b1e6-v1.json",
+      "size": 2229,
+      "sha256": "d9993bd15872440b0b5f70464c606b97671718d058c4a35dc1205b6afc2774b7",
+      "preview": "greeting/festival-dhanteras-frame-hi-90b1e6-v1-preview.json",
+      "contentHash": "a979fa43ee4233508a4b34a344120286765d8e32d3be0bba0486792baa2b5c3c",
+      "festival": "dhanteras",
+      "festivalName": "Dhanteras",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-06"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-dhanteras-glow-en",
+      "name": "Dhanteras — Glow (English)",
+      "version": 1,
+      "file": "greeting/festival-dhanteras-glow-en-f80eaa-v1.json",
+      "size": 6626,
+      "sha256": "21bb65f4979a7074ab169e19b88479bb486a5ab74fdc310d092006eb17d68efe",
+      "preview": "greeting/festival-dhanteras-glow-en-f80eaa-v1-preview.json",
+      "contentHash": "9977dfbe6687fd1a378391f912e95be250a95386104dddbd6cd24e4b832bdbf0",
+      "festival": "dhanteras",
+      "festivalName": "Dhanteras",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-06"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-dhanteras-glow-hi",
+      "name": "Dhanteras — Glow (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-dhanteras-glow-hi-4a1919-v1.json",
+      "size": 6942,
+      "sha256": "2c4aa412d983af049a7a3de32a4aa58603ee35f78b8e9e2adec89977ea0804ef",
+      "preview": "greeting/festival-dhanteras-glow-hi-4a1919-v1-preview.json",
+      "contentHash": "d667f0076ca740ad75acf122637bdcaf426256173f547c9a1694305c5c6fa33a",
+      "festival": "dhanteras",
+      "festivalName": "Dhanteras",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-06"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-dhanteras-night-en",
+      "name": "Dhanteras — Night (English)",
+      "version": 1,
+      "file": "greeting/festival-dhanteras-night-en-0fbb35-v1.json",
+      "size": 9809,
+      "sha256": "ca3eb6bb01f02769bfc3103893dda546412bc94fad0b462d986b214b50e22cb1",
+      "preview": "greeting/festival-dhanteras-night-en-0fbb35-v1-preview.json",
+      "contentHash": "8b0137be01766ce451d033c6a5392b7baad751c8aa91479487e3a9f0e760f3af",
+      "festival": "dhanteras",
+      "festivalName": "Dhanteras",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-06"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-dhanteras-night-hi",
+      "name": "Dhanteras — Night (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-dhanteras-night-hi-1811aa-v1.json",
+      "size": 10140,
+      "sha256": "1062710c149ff9035f54bfca9baf8cdf6d1d039e6a543b27d6af0e8b08a8504f",
+      "preview": "greeting/festival-dhanteras-night-hi-1811aa-v1-preview.json",
+      "contentHash": "d5939e236cd8fad8812fb1b8ba7ede28bcf8ebffe6eb2d2bd2f4c78a67f94e4c",
+      "festival": "dhanteras",
+      "festivalName": "Dhanteras",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-06"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-diwali-frame-en",
+      "name": "Diwali — Frame (English)",
+      "version": 1,
+      "file": "greeting/festival-diwali-frame-en-c36c2e-v1.json",
+      "size": 1855,
+      "sha256": "1755c5ccde075756fb1727a30b91450441f5a30fbfa8fb5958816f7a2a89d9c0",
+      "preview": "greeting/festival-diwali-frame-en-c36c2e-v1-preview.json",
+      "contentHash": "d5901e7243592ae9a7094fa7620f6dd62c4cf76276892955237f95a978b0c683",
+      "festival": "diwali",
+      "festivalName": "Diwali",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-08"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-diwali-frame-hi",
+      "name": "Diwali — Frame (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-diwali-frame-hi-8304f6-v1.json",
+      "size": 2141,
+      "sha256": "27612a411c9f067f8890cda1b070cce81a34a6c81b8b2988c6a2c8b3f0e31e37",
+      "preview": "greeting/festival-diwali-frame-hi-8304f6-v1-preview.json",
+      "contentHash": "4338304ac7846936ff2dedd7c79ceec564ba9eda96544a02c85dbed93b86426c",
+      "festival": "diwali",
+      "festivalName": "Diwali",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-08"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-diwali-glow-en",
+      "name": "Diwali — Glow (English)",
+      "version": 1,
+      "file": "greeting/festival-diwali-glow-en-fd1e8b-v1.json",
+      "size": 6580,
+      "sha256": "e76095d06ab9f0361f698ad12a1881746dd1a93e7f0351cd307138cd9ccbe0d3",
+      "preview": "greeting/festival-diwali-glow-en-fd1e8b-v1-preview.json",
+      "contentHash": "c1d6fa1db0eef46d6f6e5bb905f003638a0c2cd8269b702911b0349a5e6cbf4e",
+      "festival": "diwali",
+      "festivalName": "Diwali",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-08"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-diwali-glow-hi",
+      "name": "Diwali — Glow (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-diwali-glow-hi-e845eb-v1.json",
+      "size": 6854,
+      "sha256": "4bf07ebee4c8556b2405a125cbc2d530c32bdffc6f9e6dc6d15c61af8d9bf20c",
+      "preview": "greeting/festival-diwali-glow-hi-e845eb-v1-preview.json",
+      "contentHash": "799b1dd48f44d5f6ab12d202cc41700365204cc4b50fbf52e614ff59dcdb7621",
+      "festival": "diwali",
+      "festivalName": "Diwali",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-08"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-diwali-night-en",
+      "name": "Diwali — Night (English)",
+      "version": 1,
+      "file": "greeting/festival-diwali-night-en-2dce82-v1.json",
+      "size": 9763,
+      "sha256": "7eac19b84ac6db70448b1ca364563d25aa61782553007ceb52030c6754f2f0e9",
+      "preview": "greeting/festival-diwali-night-en-2dce82-v1-preview.json",
+      "contentHash": "fa1c60e6e6b411c83231cf79cbb5d9fa00ae20bfec11064055fecd8418747448",
+      "festival": "diwali",
+      "festivalName": "Diwali",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-08"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-diwali-night-hi",
+      "name": "Diwali — Night (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-diwali-night-hi-aba441-v1.json",
+      "size": 10052,
+      "sha256": "f5a9b80d265dd4aa06d46090f04202954bd4404732e021f4769cfd09c35f27bc",
+      "preview": "greeting/festival-diwali-night-hi-aba441-v1-preview.json",
+      "contentHash": "ebeb91c829f6d78f4cc42f695e6bf04c3755f163c79fc0f17e489aa87eeca6c3",
+      "festival": "diwali",
+      "festivalName": "Diwali",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-08"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-labh-pancham-frame-en",
+      "name": "Labh Pancham — Frame (English)",
+      "version": 1,
+      "file": "greeting/festival-labh-pancham-frame-en-5d9362-v1.json",
+      "size": 1901,
+      "sha256": "2e8f35affa57df5a94564553257de031f0b514bc528f7ffdeab8f9523ddf9d0b",
+      "preview": "greeting/festival-labh-pancham-frame-en-5d9362-v1-preview.json",
+      "contentHash": "b643936505fc412b2fcb3f7518c6409de914197dbec42a1bb91b56f4124e8f92",
+      "festival": "labh-pancham",
+      "festivalName": "Labh Pancham",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-14"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-labh-pancham-frame-hi",
+      "name": "Labh Pancham — Frame (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-labh-pancham-frame-hi-cc7da4-v1.json",
+      "size": 2129,
+      "sha256": "5c1566df757e2c9b6343992938122924c92ccc4f81e1384229008cd2ddf087d5",
+      "preview": "greeting/festival-labh-pancham-frame-hi-cc7da4-v1-preview.json",
+      "contentHash": "88fdfda03838b1f4c94464f29ac95b51c3db0036f79bb085e9fe2ab6b6eefd3e",
+      "festival": "labh-pancham",
+      "festivalName": "Labh Pancham",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-14"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-labh-pancham-glow-en",
+      "name": "Labh Pancham — Glow (English)",
+      "version": 1,
+      "file": "greeting/festival-labh-pancham-glow-en-17fefd-v1.json",
+      "size": 6625,
+      "sha256": "6a430b542a5cff3891d45c0175dc8cf5720014093b46749fd5b6c4d165d4cc31",
+      "preview": "greeting/festival-labh-pancham-glow-en-17fefd-v1-preview.json",
+      "contentHash": "cf282c2b0b967a0ca229c53cbc66af1f123daea8cdb9fe6c978ad03d0cf608f1",
+      "festival": "labh-pancham",
+      "festivalName": "Labh Pancham",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-14"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-labh-pancham-glow-hi",
+      "name": "Labh Pancham — Glow (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-labh-pancham-glow-hi-30b1c1-v1.json",
+      "size": 6841,
+      "sha256": "f9a31cca0529d16a761e3b3e1296eb2969bfde160cf83e438ded6b3044d8b593",
+      "preview": "greeting/festival-labh-pancham-glow-hi-30b1c1-v1-preview.json",
+      "contentHash": "af310ab337b2e4606e822dd059e1983e05ce65a0bf2d981cf4b685c1c0a54627",
+      "festival": "labh-pancham",
+      "festivalName": "Labh Pancham",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-14"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-labh-pancham-night-en",
+      "name": "Labh Pancham — Night (English)",
+      "version": 1,
+      "file": "greeting/festival-labh-pancham-night-en-c92dfa-v1.json",
+      "size": 9809,
+      "sha256": "db6e822d598d8df71d58b47cd33f35650488791f2803a23d3f57c120fd3186e1",
+      "preview": "greeting/festival-labh-pancham-night-en-c92dfa-v1-preview.json",
+      "contentHash": "694b3be31e29c46912ab327166b9b5d3f044c7e2e5f2590c7cb073c060b1dc55",
+      "festival": "labh-pancham",
+      "festivalName": "Labh Pancham",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-14"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-labh-pancham-night-hi",
+      "name": "Labh Pancham — Night (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-labh-pancham-night-hi-eb8657-v1.json",
+      "size": 10040,
+      "sha256": "1bdc8f75e8e604da401efce7ebd89a66275d5c8130858805eed026f3be7d4e52",
+      "preview": "greeting/festival-labh-pancham-night-hi-eb8657-v1-preview.json",
+      "contentHash": "730a5354ea8f42cb67ccf8a72d9726f698b69d4bcd534c9893e571ce2783a109",
+      "festival": "labh-pancham",
+      "festivalName": "Labh Pancham",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-14"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-nutan-varsh-frame-en",
+      "name": "Nutan Varsh (New Year) — Frame (English)",
+      "version": 1,
+      "file": "greeting/festival-nutan-varsh-frame-en-66633f-v1.json",
+      "size": 1901,
+      "sha256": "0a104242007cbbdcc9a4f384e86cea945f8d97b7a9cc08bfcc13b68ef76457ae",
+      "preview": "greeting/festival-nutan-varsh-frame-en-66633f-v1-preview.json",
+      "contentHash": "c001755e876c5a509eeccc9bdaf7ee3199abb2e0da3c13573dae8ce55b8ec60a",
+      "festival": "nutan-varsh",
+      "festivalName": "Nutan Varsh (New Year)",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-10"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-nutan-varsh-frame-hi",
+      "name": "Nutan Varsh (New Year) — Frame (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-nutan-varsh-frame-hi-2cffcc-v1.json",
+      "size": 2203,
+      "sha256": "1d433e4d4f4e0c3d051520bd30922bf67784aa894ce3a53bb10ed10fa6dd89cc",
+      "preview": "greeting/festival-nutan-varsh-frame-hi-2cffcc-v1-preview.json",
+      "contentHash": "85c1fd1250ef2246ffff441d6905bc8dc2f040cf194f1d47ebcd884703b6c21c",
+      "festival": "nutan-varsh",
+      "festivalName": "Nutan Varsh (New Year)",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-10"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-nutan-varsh-glow-en",
+      "name": "Nutan Varsh (New Year) — Glow (English)",
+      "version": 1,
+      "file": "greeting/festival-nutan-varsh-glow-en-6821f9-v1.json",
+      "size": 6625,
+      "sha256": "1bc63820faa81eba6dfedbd1d8346ee8dc76de67864b6affdec9962d6b21b04e",
+      "preview": "greeting/festival-nutan-varsh-glow-en-6821f9-v1-preview.json",
+      "contentHash": "ae631e054bf350bec4139cdc468364c7b09c739e100ef892f6ed1f8764edd68e",
+      "festival": "nutan-varsh",
+      "festivalName": "Nutan Varsh (New Year)",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-10"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-nutan-varsh-glow-hi",
+      "name": "Nutan Varsh (New Year) — Glow (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-nutan-varsh-glow-hi-c0c83e-v1.json",
+      "size": 6915,
+      "sha256": "92c7a6e8f780d63bbde995f58755dd899ecda8b5685ef6ec3c1cbf0439c64b7d",
+      "preview": "greeting/festival-nutan-varsh-glow-hi-c0c83e-v1-preview.json",
+      "contentHash": "e75380d0f29ae90d6eaa6aeb04ae9828d42266b6a682a944ccc22a196f51e7fd",
+      "festival": "nutan-varsh",
+      "festivalName": "Nutan Varsh (New Year)",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-10"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-nutan-varsh-night-en",
+      "name": "Nutan Varsh (New Year) — Night (English)",
+      "version": 1,
+      "file": "greeting/festival-nutan-varsh-night-en-7617c9-v1.json",
+      "size": 9809,
+      "sha256": "7e6866b99d3125762393103742c4e72b16b247fc1faf797e763f7dca79d43d9a",
+      "preview": "greeting/festival-nutan-varsh-night-en-7617c9-v1-preview.json",
+      "contentHash": "43849ee0bc71cf76172bb0744e93a83a48f891cbdf89aa25cc55c72face75b3d",
+      "festival": "nutan-varsh",
+      "festivalName": "Nutan Varsh (New Year)",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-10"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-nutan-varsh-night-hi",
+      "name": "Nutan Varsh (New Year) — Night (Hindi)",
+      "version": 1,
+      "file": "greeting/festival-nutan-varsh-night-hi-39636c-v1.json",
+      "size": 10114,
+      "sha256": "d4fa8e4647cb0f246c292ae2abbb6a1f85dc03ecb76f50fb38c7a8a2b844013b",
+      "preview": "greeting/festival-nutan-varsh-night-hi-39636c-v1-preview.json",
+      "contentHash": "df5a1d852881a0c0cf3662c96aa365d004ba3ca5dc2395d8685ac0d348ff3b1c",
+      "festival": "nutan-varsh",
+      "festivalName": "Nutan Varsh (New Year)",
+      "language": "hi",
+      "dates": {
+        "2026": "2026-11-10"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T08:56:51.796Z"
     },
     {
       "type": "language",
