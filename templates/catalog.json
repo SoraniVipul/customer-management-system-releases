@@ -1,7 +1,7 @@
 {
   "format": "cms-template-catalog",
   "formatVersion": 1,
-  "updatedAt": "2026-10-31T08:56:51.796Z",
+  "updatedAt": "2026-10-31T12:35:06.369Z",
   "templates": [
     {
       "type": "card",
@@ -712,6 +712,26 @@
     },
     {
       "type": "greeting",
+      "key": "festival-diwali-picture-mvwbwa4o",
+      "name": "Divali v2",
+      "version": 1,
+      "file": "greeting/festival-diwali-picture-mvwbwa4o-b11e0f-v1.json",
+      "size": 1162864,
+      "sha256": "375fa864de2e6c73ce5e4ee68191ca99da2d96a735a0215d5ae7e6ef48d279bb",
+      "preview": "greeting/festival-diwali-picture-mvwbwa4o-b11e0f-v1-preview.json",
+      "contentHash": "15476dbccd4777dba9d6a45461919b7562203b489d841935571333916759b9a8",
+      "festival": "diwali",
+      "festivalName": "diwali",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-08"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T12:35:06.369Z"
+    },
+    {
+      "type": "greeting",
       "key": "festival-diwali-frame-en",
       "name": "Diwali — Frame (English)",
       "version": 1,
@@ -1069,6 +1089,26 @@
       "minAppVersion": "1.0.24",
       "changelog": "",
       "updatedAt": "2026-10-31T08:56:51.796Z"
+    },
+    {
+      "type": "greeting",
+      "key": "festival-diwali-picture-mvwbpvwd",
+      "name": "V1",
+      "version": 1,
+      "file": "greeting/festival-diwali-picture-mvwbpvwd-de1cdd-v1.json",
+      "size": 1185922,
+      "sha256": "b6faa09c0f35560f3e5a68705b302c4d312a02b1adf7bc5a88e0b3997abf32e5",
+      "preview": "greeting/festival-diwali-picture-mvwbpvwd-de1cdd-v1-preview.json",
+      "contentHash": "222b913fe7b1691b774cdfdc5cf95b0450e6157d94444d6783e41cff1b29be06",
+      "festival": "diwali",
+      "festivalName": "Diwali",
+      "language": "en",
+      "dates": {
+        "2026": "2026-11-08"
+      },
+      "minAppVersion": "1.0.24",
+      "changelog": "",
+      "updatedAt": "2026-10-31T12:35:06.369Z"
     },
     {
       "type": "language",
