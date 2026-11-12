@@ -1,7 +1,7 @@
 {
   "format": "cms-template-catalog",
   "formatVersion": 1,
-  "updatedAt": "2026-11-04T23:12:32.527Z",
+  "updatedAt": "2026-11-12T14:59:52.697Z",
   "templates": [
     {
       "type": "card",
@@ -1339,6 +1339,18 @@
       "size": 401,
       "sha256": "ccc91f14d08246a706eb7709863a09d3a2ed438c9110b426e6c6c62dbaa8c043",
       "updatedAt": "2026-10-12T18:57:36.976Z"
+    },
+    {
+      "type": "master",
+      "key": "vehicle-insurance-policy",
+      "name": "Vehicle Insurance Policy",
+      "version": 1,
+      "changelog": "",
+      "minAppVersion": null,
+      "file": "master/vehicle-insurance-policy-c8c997-v1.json",
+      "size": 794,
+      "sha256": "cc5c44e3b8814aaa172b7fc0054bb3c18588bd6b59a27d821c398574a63fc41e",
+      "updatedAt": "2026-11-12T14:59:52.697Z"
     },
     {
       "type": "master",
