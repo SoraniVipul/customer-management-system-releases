@@ -1,19 +1,19 @@
 {
   "format": "cms-template-catalog",
   "formatVersion": 1,
-  "updatedAt": "2026-11-13T09:35:17.817Z",
+  "updatedAt": "2026-11-13T09:36:08.713Z",
   "templates": [
     {
       "type": "card",
       "key": "aadhaar-eaadhaar-pdf",
-      "name": "Aadhaar (e-Aadhaar PDF)",
-      "version": 8,
+      "name": "Aadhaar Card V1",
+      "version": 44,
       "changelog": "",
-      "minAppVersion": "1.0.24",
-      "file": "card/aadhaar-eaadhaar-pdf-89d92d-v8.json",
-      "size": 6618,
-      "sha256": "bf00df31465e5602543948ae0ef03ce334f5c1001111c0b593da13f783a8e98b",
-      "updatedAt": "2026-11-04T23:12:32.527Z"
+      "minAppVersion": "1.0.25",
+      "file": "card/aadhaar-eaadhaar-pdf-89d92d-v44.json",
+      "size": 187176,
+      "sha256": "2b909fff7282d7924325d55e0ae1b11e1738078196c8b56dbe4f529aacda926f",
+      "updatedAt": "2026-11-13T09:36:08.713Z"
     },
     {
       "type": "card",
@@ -109,13 +109,13 @@
       "type": "card",
       "key": "template-1793707587221",
       "name": "Farmer Card",
-      "version": 53,
+      "version": 54,
       "changelog": "",
-      "minAppVersion": "1.0.24",
-      "file": "card/template-1793707587221-2af4c7-v53.json",
-      "size": 423457,
-      "sha256": "4f05b8580de4ce90aeea3be1f5e9db586e9d40595f3a361871369dd860de67dc",
-      "updatedAt": "2026-11-04T23:12:32.527Z"
+      "minAppVersion": "1.0.25",
+      "file": "card/template-1793707587221-2af4c7-v54.json",
+      "size": 424531,
+      "sha256": "7b8789b2cda97ea341d6c9530ca49551a70f5b9f0c17e370ef458e39897f9cd2",
+      "updatedAt": "2026-11-13T09:36:08.713Z"
     },
     {
       "type": "card",
@@ -133,13 +133,13 @@
       "type": "card",
       "key": "Bal Adhar",
       "name": "Minor Adhar",
-      "version": 10,
+      "version": 15,
       "changelog": "",
-      "minAppVersion": "1.0.24",
-      "file": "card/bal-adhar-ee1623-v10.json",
+      "minAppVersion": "1.0.25",
+      "file": "card/bal-adhar-ee1623-v15.json",
       "size": 276846,
-      "sha256": "9bb55585e97dc2acc22e86cc05c9a7d2280f7d769cba2df67074154a6c020290",
-      "updatedAt": "2026-11-04T23:12:32.527Z"
+      "sha256": "a1bfb6bc2a866d51c1e57ee2de9e99e0f1c4ba4f4bf8698b5d65f691c6a30621",
+      "updatedAt": "2026-11-13T09:36:08.713Z"
     },
     {
       "type": "card",
@@ -196,13 +196,13 @@
       "type": "card",
       "key": "template-1791311853846",
       "name": "Smart Color Adhar",
-      "version": 22,
+      "version": 43,
       "changelog": "",
-      "minAppVersion": "1.0.24",
-      "file": "card/template-1791311853846-42a972-v22.json",
-      "size": 290621,
-      "sha256": "10b04091bfd82070983fa0242c88cdf6d311b8e9f74b46501de55bc7d93eb3c2",
-      "updatedAt": "2026-11-04T23:12:32.527Z"
+      "minAppVersion": "1.0.25",
+      "file": "card/template-1791311853846-42a972-v43.json",
+      "size": 293111,
+      "sha256": "5316a44fc9330455aaed49199b9f0983162ba38adb199f775664d2ae63ad9573",
+      "updatedAt": "2026-11-13T09:36:08.713Z"
     },
     {
       "type": "card",
