@@ -1,7 +1,7 @@
 {
   "format": "cms-template-catalog",
   "formatVersion": 1,
-  "updatedAt": "2026-11-12T14:59:52.697Z",
+  "updatedAt": "2026-11-13T09:35:17.817Z",
   "templates": [
     {
       "type": "card",
@@ -220,14 +220,14 @@
       "type": "document",
       "key": "aadhaar-card",
       "name": "Aadhaar Card",
-      "version": 6,
+      "version": 7,
       "changelog": "",
-      "minAppVersion": null,
+      "minAppVersion": "1.0.25",
       "documentMaster": "Aadhaar Card",
-      "file": "document/aadhaar-card-bbc91e-v6.json",
-      "size": 272265,
-      "sha256": "4e3caed84b532d249685bdffeec2c0c9b6c05a9a13c45127ebecffa6217910e6",
-      "updatedAt": "2026-10-14T05:40:39.308Z"
+      "file": "document/aadhaar-card-bbc91e-v7.json",
+      "size": 270190,
+      "sha256": "392b53cb78bb95a85672dd978f28ab8a87b2d289d5c5c54983577b8b281ccff1",
+      "updatedAt": "2026-11-13T09:35:17.817Z"
     },
     {
       "type": "document",
