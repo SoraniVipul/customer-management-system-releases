@@ -1,19 +1,19 @@
 {
   "format": "cms-template-catalog",
   "formatVersion": 1,
-  "updatedAt": "2026-11-13T09:36:08.713Z",
+  "updatedAt": "2026-11-18T05:21:17.314Z",
   "templates": [
     {
       "type": "card",
       "key": "aadhaar-eaadhaar-pdf",
       "name": "Aadhaar Card V1",
-      "version": 44,
+      "version": 45,
       "changelog": "",
       "minAppVersion": "1.0.25",
-      "file": "card/aadhaar-eaadhaar-pdf-89d92d-v44.json",
+      "file": "card/aadhaar-eaadhaar-pdf-89d92d-v45.json",
       "size": 187176,
-      "sha256": "2b909fff7282d7924325d55e0ae1b11e1738078196c8b56dbe4f529aacda926f",
-      "updatedAt": "2026-11-13T09:36:08.713Z"
+      "sha256": "39cd8e1994f434090349e18baf6590a50afac37f965bc2b54059672a3657ba7a",
+      "updatedAt": "2026-11-18T05:21:17.314Z"
     },
     {
       "type": "card",
